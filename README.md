@@ -17,4 +17,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm run build`
 
 
-<img src="./images/main.jpg" />
+<img src="/images/main.jpg">
